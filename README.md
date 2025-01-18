@@ -1,2 +1,3 @@
 # second_repo
-testing .gitignore template
+.gitignore worked
+
